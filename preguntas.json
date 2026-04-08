@@ -18,5 +18,15 @@
       "Solo los trabajadores en activo"
     ],
     "correctAnswerIndex": 1
+  },
+  {
+    "text": "hola soy skad",
+    "options": [
+      "Solo los nacidos en Euskadi",
+      "Todos los ciudadanos residentes en Euskadi",
+      "Cualquier persona que esté de paso",
+      "Solo los trabajadores en activo"
+    ],
+    "correctAnswerIndex": 1
   }
 ]
