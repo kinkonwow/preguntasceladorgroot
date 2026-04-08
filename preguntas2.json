@@ -1,1 +1,13 @@
 
+[
+  {
+    "text": "¿Cuál es el objeto de la Ley de Salud de Euskadi?",
+    "options": [
+      "Regular la estructura del Gobierno Vasco",
+      "Garantizar el derecho a la protección de la salud",
+      "Establecer las tarifas de los medicamentos",
+      "Gestionar el tráfico sanitario"
+    ],
+    "correctAnswerIndex": 1
+  },
+]
