@@ -5,7 +5,7 @@
       "opcion 2",
       "opcion 3",
       "opcion 4"
-    ] <--- AQUÍ TE FALTA UNA COMA ","
+    ],
     "correctAnswerIndex": 1
   }
 ]
