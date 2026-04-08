@@ -1,4 +1,3 @@
-
 [
   {
     "text": "¿Cuál es el objeto de la Ley de Salud de Euskadi?",
@@ -10,4 +9,14 @@
     ],
     "correctAnswerIndex": 1
   },
+  {
+    "text": "¿Quién es el titular del derecho a la protección de la salud?",
+    "options": [
+      "Solo los nacidos en Euskadi",
+      "Todos los ciudadanos residentes en Euskadi",
+      "Cualquier persona que esté de paso",
+      "Solo los trabajadores en activo"
+    ],
+    "correctAnswerIndex": 1
+  }
 ]
