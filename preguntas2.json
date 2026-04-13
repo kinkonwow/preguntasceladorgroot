@@ -1,22 +1,2002 @@
 [
   {
-    "text": "¿Cuál es el objeto de la Ley de Salud de Euskadi?",
+    "text": "La cocina caliente es:",
     "options": [
-      "Regular la estructura del Gobierno Vasco",
-      "Garantizar el derecho a la protección de la salud",
-      "Establecer las tarifas de los medicamentos",
-      "Gestionar el tráfico sanitario"
+      "Es la encargada de conservar en buenas condiciones higiénicas los géneros de uso no inmediato.",
+      "Es el lugar donde se limpia y conserva la batería de cocina.",
+      "Es el lugar donde racionar ciertos platos, terminar algunos platos cocinados, confeccionar totalmente platos y guarnicionesy salsas frías.",
+      "Es la encargada de transformar, por medio de calor, los alimentos crudos."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En cocina, tendrá suelo inclinado con vertiente central a un sumidero:",
+    "options": [
+      "El economato.",
+      "La antecámara.",
+      "La cámara de refrigeración.",
+      "El fregadero."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Lugar donde se almacenan los alimentos no perecederos:",
+    "options": [
+      "Almacén.",
+      "Cuarto de verduras y frutas.",
+      "Economato.",
+      "Ninguna de las anteriores."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La temperatura de la cámara de congelación será del orden de:",
+    "options": [
+      "0 grados centígrados.",
+      "18 grados centígrados bajo cero.",
+      "20 grados centígrados bajo cero.",
+      "12 grados centígrados bajo cero."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La temperatura de la antecámara será del orden de:",
+    "options": [
+      "8 a 12 grados centígrados.",
+      "10 a 12 grados centígrados.",
+      "3 a 4 grados centígrados.",
+      "8 a 10 grados centígrados."
+    ],
+    "correctAnswerIndex": null
+  },
+  {
+    "text": "El lugar donde se limpia y conserva la batería de cocina, que posee tres pilas, grandes, profundas y fuertes, es:",
+    "options": [
+      "El cuarto de verduras y frutas.",
+      "El economato.",
+      "La plonge.",
+      "La lavandería."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Recibe el nombre de \"placares\":",
+    "options": [
+      "El lugar acondicionado para que la brigada de cocina se cambie y deposite sus ropas.",
+      "El lugar donde se limpia la loza, el cristal y la plata del establecimiento.",
+      "El espacio donde se limpian las planchas y rustideras de la batería de cocina.",
+      "El lugar donde se instala el friegaplatos y el lavavajillas mecánico."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "El departamento que debe estar dotado de cafetera, baño maría de leche, tostadores de pan, frigorífico para zumos, mantequilla, leche, etc., pequeño fogón con plancha, pila y armario, se conoce como:",
+    "options": [
+      "Cocina de familia.",
+      "Cocina de meriendas.",
+      "Cafetería del hotel.",
+      "Ambigú."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Se emplea para la conservación de alimentos crudos, y también de géneros cocinados. Su temperatura será de 1 a 2 grados centígrados aproximadamente.",
+    "options": [
+      "Antecámara.",
+      "Cámara de congelación.",
+      "Abatidor de temperatura.",
+      "Cámara de refrigeración."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Las grandes cámaras frigoríficas más completas, comprenden:",
+    "options": [
+      "Antecámara, cámara de refrigeración y cámara de congelación.",
+      "Antecámara, cámara de refrigeración y abatidor de temperatura.",
+      "Sorbetera, cámara de refrigeración y cámara de congelación.",
+      "Ninguna de las anteriores."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Los fogones según sus características de acoplamiento podrán ser:",
+    "options": [
+      "Murales, centrales, transportables, integrales o acoplables.",
+      "Murales, centrales, plegables, integrales o por elementos.",
+      "Transportables, centrales, plegables, integrales o acoplables.",
+      "Murales, centrales, transportables, integrales o plegables."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA, la cocina de familia.",
+    "options": [
+      "Estará dedicada exclusivamente a confeccionar la comida del personal.",
+      "Tiene como objetivo evitar la interferencia con la cocina de clientes.",
+      "Deberá estar situada en un lugar que domine la totalidad de la cocina y para una mejor visión formando los cristaleras.",
+      "Será, en sí, una cocina completa."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la respuesta CORRECTA:",
+    "options": [
+      "El gas butano es más puro y gasifica mejor que el gas propano.",
+      "El gas propano es más puro y gasifica mejor que el gas butano.",
+      "El gas butano y propano son igual de puros.",
+      "El gas propano y butano gasifican igual."
     ],
     "correctAnswerIndex": 1
   },
   {
-    "text": "¿Quién es el titular del derecho a la protección de la salud?",
+    "text": "En el gas propano, la mala combustión se identifica:",
     "options": [
-      "Solo los nacidos en Euskadi",
-      "Todos los ciudadanos residentes en Euskadi",
-      "Cualquier persona que esté de paso",
-      "Solo los trabajadores en activo"
+      "Por convertir la llama en amarillenta, en vez de rojiza.",
+      "Por convertir la llama en rojiza, en vez de azulada.",
+      "Por convertir la llama en azulada, en vez de rojiza.",
+      "Por convertir la llama en rojiza, en vez de amarillenta."
     ],
     "correctAnswerIndex": 1
+  },
+  {
+    "text": "¿Cuál es la situación en el local de cocina de la salamandra?",
+    "options": [
+      "Partida del asador.",
+      "Cuarto frío.",
+      "Partida de carnes.",
+      "Partida del entradero o pescadero."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El tamaño de la cubeta de las freidoras:",
+    "options": [
+      "Es de 4 hasta 10 litros.",
+      "Es de 4 hasta 50 litros.",
+      "Es de 4 hasta 100 litros.",
+      "Es de 4 hasta 200 litros."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El tipo de horno más usado es:",
+    "options": [
+      "El eléctrico.",
+      "El de gas propano.",
+      "El de leña.",
+      "El de gas-oil."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "¿Cuál de los siguientes debe situarse como medianera entre la cocina y el paso al comedor?",
+    "options": [
+      "Placar.",
+      "Prusiana.",
+      "Mesa caliente.",
+      "Plonge."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "¿Cuál es el generador de calor que se emplea para freír a la llamada \"gran fritura\" alimentos de distinta cualidad de sabor y clase, en gran cantidad, con poco ennegrecimiento de la grasa y perfecta regulación de calor?",
+    "options": [
+      "Parrilla.",
+      "Plancha parrilla.",
+      "Freidora.",
+      "Sartén abatible."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los tipos de marmitas y olla a presión según el elemento de calentamiento empleado son:",
+    "options": [
+      "Vapor, gas propano y electricidad.",
+      "Electricidad únicamente.",
+      "Vapor, gas y vapor, gas directo y electricidad.",
+      "Vapor con gas, gas azul y electricidad."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los recipientes generadores de calor, con posibilidad de vaciado rápido por basculación, adecuados para elaborar salteados, estofados, arroces, fritos con poco aceite, etc., con placa cerrada o cubierta, son:",
+    "options": [
+      "Baño María.",
+      "Freidora a presión.",
+      "Sartén abatible.",
+      "Sartén volteable."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Utensilio contenedor de agua caliente dentro del cual se sitúan los recipientes contenedores de alimentos para conservarlos calientes por un espacio de tiempo determinado.",
+    "options": [
+      "Baño caliente.",
+      "Roner.",
+      "Sous vide.",
+      "Ninguna de las anteriores."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "La misión de la cámara de congelación es conservar géneros:",
+    "options": [
+      "Hasta 3 meses.",
+      "Más de 6 meses.",
+      "Hasta 6 meses.",
+      "Hasta 12 meses."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los fogones centrales (señala la opción INCORRECTA):",
+    "options": [
+      "Están construidos para instalar retirados de las paredes.",
+      "Se requieren conductos de instalación aérea o por el suelo.",
+      "Son los usados en los grandes establecimientos por permitir el agrupamiento de las partidas.",
+      "Tienen sus hornos y estufas en un solo frente, que es el de titulación de trabajo."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Los tipos de \"baño maría\" (señala la opción INCORRECTA):",
+    "options": [
+      "Placa de bordes altos con agua.",
+      "Fijo.",
+      "Mural.",
+      "Transportable."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La ventilación de la cocina será por medio de:",
+    "options": [
+      "Ventanales de salida a nivel bajo.",
+      "Ventanales de entrada a nivel más alto.",
+      "Ventanales de salida a nivel alto.",
+      "Ventanales de entrada y salida a nivel medio."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La ubicación de la cocina:",
+    "options": [
+      "Estará situada en la misma planta que los comedores principales.",
+      "Estará alejada de terrazas y comedores para evitar olores.",
+      "Para evitar que la comida se enfríe, se emplearán mantas isotérmicas.",
+      "Deberá estar alejada de la zona de llegada de mercancías para evitar contaminaciones."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Los materiales adecuados para la construcción de las cocinas como revestimiento de paredes, suelos y techos:",
+    "options": [
+      "En los suelos ha de buscarse material que permita el fácil deslizamiento.",
+      "Para el techo se emplea el encalado o revestimiento de yeso o pintura gris.",
+      "En las paredes han de emplearse materiales de fácil limpieza e inalterables al calor.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El despacho del jefe:",
+    "options": [
+      "Debe estar alejado de la cocina para que no haya ruidos.",
+      "Dispondrá de teléfono, control de micrófonos y mesa de despacho.",
+      "Es imprescindible en todos los establecimientos, sea cual sea su tamaño.",
+      "Es el lugar donde se controlan el peso, el rendimiento y la calidad de los artículos alimenticios."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Los gases más usados en la generación de frío en principio fueron:",
+    "options": [
+      "Cloruro de metilo y gas carbónico.",
+      "Gas cianhídrico y el amoníaco.",
+      "El sulfuro y el amoníaco.",
+      "Ninguna de las anteriores."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los materiales que se utilizan principalmente para la fabricación del colador chino, son:",
+    "options": [
+      "Hierro estañado o aluminio.",
+      "Hierro estañado o acero inoxidable.",
+      "Cobre o acero inoxidable.",
+      "Aluminio anodizado o acero inoxidable."
+    ],
+    "correctAnswerIndex": null
+  },
+  {
+    "text": "El material de fabricación del mortero o almirez será:",
+    "options": [
+      "Madera.",
+      "Acero inoxidable.",
+      "Poliestireno.",
+      "Mármol."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Para toda clase de fritos y géneros a la \"gran fritura\" como croquetas, gambas orly, soldaditos de pavía, etc. se utiliza:",
+    "options": [
+      "La salamandra.",
+      "La carmela.",
+      "La sauté.",
+      "El sartén escurridor o fritura."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Se employan para medir líquidos:",
+    "options": [
+      "Las medidas de capacidad.",
+      "Caudalímetro.",
+      "Vaso medidor.",
+      "Balanza."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Se emplea para majar y machacar elementos de condimentación:",
+    "options": [
+      "Colador cónico perforado o \"chino\".",
+      "Batidora de mano.",
+      "Pasapurés de mano.",
+      "Mortero o almirez."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El utensilio, de hierro estañado, utilizado para tamizar purés, cremas y salsas, es:",
+    "options": [
+      "Cedazo.",
+      "Pasapurés.",
+      "Tamiz.",
+      "Colador."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Son tipos de cuchillos:",
+    "options": [
+      "De golpe, de medio golpe, cebollero y puntilla.",
+      "De golpe, cebollero, chuletero y puntilla.",
+      "De golpe, de medio golpe, descorazonador y deshuesador.",
+      "Cebollero, tronchante, puntilla y jamonero."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Cuchillo que se emplea para cortar hortalizas, pescados, carnes, etc. de dimensiones entre 37,5 y 42 cm. Se trata de:",
+    "options": [
+      "Cuchillo de medio golpe.",
+      "Puntilla.",
+      "Cuchillo cebollero.",
+      "Cuchillo tranchelar."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Se emplea para cortar grandes piezas con huesos muy tiernos, inclusive.",
+    "options": [
+      "Macheta.",
+      "Medio golpe.",
+      "Cebollero.",
+      "Ninguna de las anteriores."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Se emplea para pasar y colar caldos y cremas, y también salsas.",
+    "options": [
+      "Colador chino.",
+      "Pasapuré.",
+      "Tamizador.",
+      "Estameña."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "En cocina, para tornear utilizaremos preferentemente:",
+    "options": [
+      "Un cuchillo de medio golpe.",
+      "Un cuchillo cebollero.",
+      "Una puntilla.",
+      "Un trinchante."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Las aplicaciones de la balanza son:",
+    "options": [
+      "Pesar hasta un determinado número de kilos (de 6 a 10).",
+      "Pesar hasta un determinado número de kilos (de 1 a 2).",
+      "Pesar hasta un determinado número de kilos (de 4 a 12).",
+      "Pesar hasta un determinado número de kilos (de 6 a 12)."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Se emplea para cortar huesos:",
+    "options": [
+      "Jamonero.",
+      "Trinchante.",
+      "Macheta.",
+      "Puntilla."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El recipiente que se emplea para la elaboración de caldos y fondos y que, en algunos casos, sirve para hervidos se denomina:",
+    "options": [
+      "Cazo alto.",
+      "Sauté.",
+      "Rondón.",
+      "Marmita con tapa."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Un cuchillo jamonero mide:",
+    "options": [
+      "40 cm.",
+      "44 cm.",
+      "48 cm.",
+      "52 cm."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La capacidad de la marmita con tapa será de:",
+    "options": [
+      "De 15 a 100 litros.",
+      "De 12 a 170 litros.",
+      "De 10 a 150 litros.",
+      "De 20 a 160 litros."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "En la cocina caliente, las mesas de trabajo irán paralelas a los fogones, con una separación mínima de:",
+    "options": [
+      "1 m.",
+      "1,10 m.",
+      "1,20 m.",
+      "1,30 m."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "¿De qué material suelen estar fabricadas las medidas de capacidad?",
+    "options": [
+      "De plástico y de acero inoxidable.",
+      "De hojalata, acero inoxidable y aluminio.",
+      "De plástico, aluminio y acero estañado.",
+      "De hojalata, acero inoxidable y plástico."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Se usa para trinchar jamón serrano y otras piezas similares:",
+    "options": [
+      "Trinchante o tranchelar.",
+      "Jamonero.",
+      "Deshuesador.",
+      "Cebollero."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Muebles situados dentro de la cocina caliente o de sus departamentos, empleados en la conservación por refrigeración a corto plazo de géneros de uso inmediato o constante:",
+    "options": [
+      "Antecámara.",
+      "Cámaras frigoríficas.",
+      "Armarios frigoríficos.",
+      "Timbres."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El diámetro del colador chino oscila entre:",
+    "options": [
+      "20-23 cm.",
+      "20-25 cm.",
+      "18-22 cm.",
+      "10-20 cm."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Lugar de almacenaje de artículos poco perecederos, como fiambres, conservas y escabeches:",
+    "options": [
+      "Cámara de refrigeración.",
+      "Antecámara.",
+      "Cuarto frío.",
+      "Armarios frigoríficos."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El material empleado para la fabricación de la sartén es:",
+    "options": [
+      "Hierro fundido.",
+      "Hierro negro.",
+      "Hierro estañado.",
+      "Teflón."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "¿Qué diámetro suele tener el mortero grande?",
+    "options": [
+      "14,5 cm.",
+      "26 cm.",
+      "30 cm.",
+      "25,5 cm."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Se establece para las mesas de trabajo en lo que se refiere a la amplitud, que cada puesto de trabajo necesita:",
+    "options": [
+      "1,20 metros de largo por 0,50 de ancho.",
+      "1,20 metros de largo por 0,70 de ancho.",
+      "1,30 metros de largo por 0,50 de ancho.",
+      "1,30 metros de largo por 0,70 de ancho."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La capacidad de las cámaras de congelación, marcada en litros o metros cúbicos, será:",
+    "options": [
+      "Adecuada a las necesidades de almacenamiento.",
+      "La mayor capacidad posible para cubre imprevistos.",
+      "De 50 metros cúbicos.",
+      "Es indiferente."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "El material empleado para la fabricación del rallador manual es:",
+    "options": [
+      "Acero inoxidable.",
+      "Hierro y acero inoxidable.",
+      "Hojalata y hierro.",
+      "Hojalata."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "La misión del cuarto frío es:",
+    "options": [
+      "Conservar grandes piezas de carne y también géneros cocinados.",
+      "Limpiar y racionar los géneros en crudo.",
+      "Conservar géneros, por medio de la congelación a largo plazo.",
+      "Lugar donde se limpia y conserva la batería de cocina."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Respecto al comedor del personal de cocina (señala la INCORRECTA):",
+    "options": [
+      "Suele estar anexo a la cocina.",
+      "Puede tener dos o tres mesas.",
+      "Debe ser un lugar agradável por su temperatura, aspecto y sencilla comodidad.",
+      "Estar�� dotada de cafetera y baño maría, pequeño fogón con plancha, pila y armario."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Su misión es conservar, cocinar y distribuir los alimentos.",
+    "options": [
+      "La cocina.",
+      "La mesa caliente.",
+      "La cocina caliente.",
+      "La cafetería del hotel."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Entre las instalaciones necesarias en el cuarto frío están (SEÑALE LA INCORRECTA):",
+    "options": [
+      "Grandes pilas con agua fría.",
+      "Tajos o pilones.",
+      "Altavoz que permita escuchar las comandas.",
+      "Cajones basculantes para legumbres secas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "La temperatura de la mesa caliente será:",
+    "options": [
+      "Menor de 100 °C.",
+      "Entre 20 y 50 °C.",
+      "Entre 70 y 120 °C.",
+      "Entre 40 y 60 °C."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "La capacidad máxima de una cacerola será de:",
+    "options": [
+      "25 litros.",
+      "32 litros.",
+      "23 litros.",
+      "28 litros."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Se usa para rallar géneros tales como: quesos duros, nuez moscada, cáscara de limón, etc.",
+    "options": [
+      "Rallador eléctrico.",
+      "Rallador microplane.",
+      "Rallador manual.",
+      "Rallador chino."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Utensilio contenedor de agua caliente dentro del cual se sitúan los recipientes contenedores de alimentos para conservarlos calientes por espacio de un tiempo determinado:",
+    "options": [
+      "Marmita con tapa.",
+      "Sartén basculante.",
+      "Mesa caliente.",
+      "Baño María."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Fuera de la hora del servicio puede usarse como lugar de trabajo y estufa fermentadora.",
+    "options": [
+      "Sartén abatible.",
+      "Sartén basculante.",
+      "Mesa caliente.",
+      "Mesa de trabajo."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala el requisito INNECESARIO en un buen programa de limpieza hospitalaria:",
+    "options": [
+      "Buen personal.",
+      "Equipo adecuado.",
+      "Flexibilidad de horarios.",
+      "Procedimientos de limpieza modernos."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la respuesta CORRECTA:",
+    "options": [
+      "Se deben utilizar mopas de algodón de 16 onzas (unos 453 gramos) para las habitaciones con enfermos.",
+      "Se deben utilizar mopas de algodón de 24 onzas (unos 680 gramos) en las zonas públicas.",
+      "Se deben utilizar mopas de 12 pulgadas (unos 30 cm) para zonas más estrechas.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En la limpieza de ventanas, la segunda pasada debe hacerse:",
+    "options": [
+      "Empezando por la superficie seca, por la esquina derecha de la parte superior de la ventana.",
+      "Empezando por la superficie seca, por la esquina izquierda de la parte inferior de la ventana.",
+      "Empezando por la superficie seca, por la esquina izquierda de la parte superior de la ventana.",
+      "Empezando por la superficie mojada, por la esquina izquierda de la parte superior de la ventana."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "En relación con la aplicación y acabado de resina en mesas (muebles):",
+    "options": [
+      "Haga una pasada, o sea, una capa.",
+      "Haga dos pasadas, o sea, dos capas.",
+      "Haga tres pasadas, o sea, tres capas.",
+      "No es recomendable su uso."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El procedimiento de esterilización de las habitaciones hospitalarias conlleva:",
+    "options": [
+      "Esperar 24 horas después del fumigado antes de entrar en la habitación.",
+      "Esperar 12 horas después del fumigado antes de entrar en la habitación.",
+      "Esperar 1 hora después del fumigado antes de entrar en la habitación.",
+      "Esperar 30 minutos después del fumigado antes de entrar en la habitación."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Bacteriostático es:",
+    "options": [
+      "Cualquier agente químico que destruye las baterías.",
+      "Cualquier agente químico que retrasa o inhibe el crecimiento de las bacterias.",
+      "Cualquier agente de índole químico.",
+      "Ninguna es correcta."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Proceso mediante el cual se destruyen todos los organismos tanto patógenos como no patógenos incluyendo esporas:",
+    "options": [
+      "Desinfección.",
+      "Aniquilación.",
+      "Esterilización.",
+      "Desgerminación."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la CORRECTA:",
+    "options": [
+      "Para poder ocuparse de la limpieza de los quirófanos, es necesario un cierto conocimiento de microbiología y electricidad, así como un considerable dominio de los procedimientos de sanificación.",
+      "Para poder ocuparse de la limpieza de los quirófanos, no es necesario un cierto conocimiento de microbiología y electricidad.",
+      "Para poder ocuparse de la limpieza de los quirófanos, es necesario un cierto conocimiento de microbiología, electricidad e inmunología.",
+      "Ninguna es correcta."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "La técnica de limpieza básica empleada actualmente en los quirófanos es:",
+    "options": [
+      "Mopa y doble cubo.",
+      "Limpieza con el lavapavimentos.",
+      "Limpieza spray.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "La limpieza de los pavimentos es una operación muy importante ya que:",
+    "options": [
+      "Elimina grandes concentraciones de polvo e impiden la acumulación de materiales no conductores.",
+      "Elimina grandes concentraciones de bacterias e impide la acumulación de materiales conductores.",
+      "Elimina grandes concentraciones de polvo, impide la acumulación de materiales conductores y evita que el personal resbale.",
+      "Elimina grandes concentraciones de bacterias, impide la acumulación de materiales no conductores y evita que el personal resbale."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El recipiente de plástico que contiene una bolsa plástica color gris que sobresale 5 o 10 centímetros del borde del bote y se utiliza para depositar los desechos ordinarios no recuperables es de color:",
+    "options": [
+      "Rojo.",
+      "Amarillo.",
+      "Verde.",
+      "Gris."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El término coeficiente del fenol, aplicado a un producto, es:",
+    "options": [
+      "La medida del poder exterminador de este producto, comparado con el del ácido carbónico puro.",
+      "El número que indica si el producto es ácido, alcalino o neutro.",
+      "La medida del poder limpiador de este producto, comparado con el del ácido carbónico puro.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "El pH de un producto es:",
+    "options": [
+      "Un número que indica el grado de densidad del material.",
+      "Un número que indica si el material es ácido, alcalino o neutro.",
+      "Un número que indica el grado de humedad del material.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA:",
+    "options": [
+      "La función de la limpieza y el mantenimiento no debe interferir con la función principal del cuidado de los enfermos.",
+      "El departamento de limpieza y mantenimiento de un hospital es el centro alrededor del cual se desarrollan toda clase de actividades que implican todo un sinfín de responsabilidades.",
+      "Es necesario que los alrededores del hospital ofrezcan un aspecto atractivo.",
+      "Los procedimientos básicos de limpieza en ningún caso pueden ser modificados."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El objetivo del fregado con mopa y doble cubo es:",
+    "options": [
+      "Conseguir una limpieza más esmerada, más higiénica y de más belleza ambiental.",
+      "Dejar en el suelo el detergente germicida el tiempo suficiente para que mate las bacterias.",
+      "Eliminar todo el polvo del pavimento.",
+      "Quitar toda suciedad del suelo, antes de aplicar el nuevo acabado al suelo."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta que NO es correcta:",
+    "options": [
+      "En el proceso de esterilización de habitaciones hay que ponerse uniforme apropiado, mascarilla y guantes de goma.",
+      "En el proceso de esterilización de habitaciones hay que sellar la habitación.",
+      "En el proceso de esterilización de habitaciones hay que airear la habitación.",
+      "En el proceso de esterilización de habitaciones hay que fumigar al menos durante 15 minutos."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El objetivo de la limpieza y desinfección de una habitación ocupada aislada es:",
+    "options": [
+      "Ofrecer una habitación limpia al nuevo paciente que debe ocuparla.",
+      "Ofrecer una habitación limpia y atractiva al nuevo paciente que debe ocuparla.",
+      "Ofrecer una habitación limpia, higiénica y atractiva usando las más modernas técnicas de asepsia.",
+      "Ofrecer una habitación atractiva al nuevo paciente que debe ocuparla."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los antisépticos son:",
+    "options": [
+      "Agentes o sustancias fuertes, por lo general de índole químico, que no entran en contacto con el tejido viviente, sino que se aplican a objetos inanimados, destruyendo los microorganismos patógenos.",
+      "Soluciones más débiles porque hay peligro de lesionar tejidos ya que se aplican sobre el cuerpo humano. Con actividad microbiana suficiente para interferir el desarrollo de la infección.",
+      "Cualquier agente químico que retrasa o inhibe el crecimiento de bacterias.",
+      "Cualquier agente químico que destruye bacterias."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Son agentes o sustancias fuertes, por lo general de índole químico, que no entran en contacto con el tejido viviente, sino que se aplican a objetos inanimados, destruyendo los microorganismos patógenos:",
+    "options": [
+      "Bactericidas.",
+      "Antisépticos.",
+      "Desinfectantes.",
+      "Esterilizantes."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la respuesta que NO es correcta:",
+    "options": [
+      "La limpieza de los pavimentos es una operación muy importante ya que elimina grandes concentraciones de bacterias.",
+      "La limpieza de los pavimentos es una operación muy importante ya que impide la acumulación de materiales no conductores.",
+      "La limpieza de los pavimentos es una operación muy importante ya que evita que el personal resbale.",
+      "Muchos pavimentos de los quirófanos son no conductores para impedir la formación de electricidad estática."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Respecto al manejo de basuras hospitalarias:",
+    "options": [
+      "No deben permanecer recipientes que contengan basuras en áreas de mucha circulación de manera que causen problemas estéticos entre otros.",
+      "La separación de la basura debe hacerse en destino.",
+      "La basura debe apretarse en las bolsas plásticas con el fin de ocupar menos espacio y evitar accidentes.",
+      "La basura debe vaciarse de un recipiente a otro."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta que NO es correcta. Entre los efectos nocivos que más comúnmente encontramos originados por los deshechos temos:",
+    "options": [
+      "Los contaminantes.",
+      "Los tóxicos.",
+      "Los patógenos.",
+      "Los alérgicos."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Señala la respuesta que NO es correcta:",
+    "options": [
+      "La recolección de basura debe efectuarse en horas que no coincidan con las de mayor tránsito (comida, visitas, etc.).",
+      "La basura seca es aquella que proviene de la limpieza diaria, y también se incluye a los residuos sólidos que son recuperables para terceros.",
+      "La basura húmeda es aquella que proviene del servicio de alimentación, cirugía, etc.",
+      "La recolección de basura en cada área del hospital debe tener una frecuencia mínima de una vez cada dos días."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En el procedimiento de quitar el polvo con mopas en zonas públicas, pasillos y vestíbulos, utilizaremos:",
+    "options": [
+      "Mopas de impregnación de 1,20 m.",
+      "Mopas de impregnación de 1 m.",
+      "Mopas de impregnación de 80 cm.",
+      "Mopas de impregnación de 30 cm."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "En el procedimiento de quitar el polvo con mopas en habitaciones con pacientes y áreas congestionadas, remplazaremos el cabezal de la mopa:",
+    "options": [
+      "Máximo tres veces al día.",
+      "Al cambiar de estancia.",
+      "Cuando la suciedad ya no pueda ser quitada o vea que está demasiado sucia.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "En el procedimiento de Aplicación del acabado de los suelos:",
+    "options": [
+      "Deje que se seque la primera capa durante unos 5 minutos.",
+      "Deje que se seque la primera capa durante unos 20 minutos.",
+      "Deje que se seque la primera capa durante unos 60 minutos.",
+      "Deje que se seque la primera capa durante al menos 24 horas."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "En la limpieza de una habitación que está desocupada:",
+    "options": [
+      "Empiece a fregar partiendo de la puerta y siga trabajando a lo largo de la habitación.",
+      "Inspeccione y quite las telarañas.",
+      "Se debe fregar la habitación y el cuarto de baño todos los días, aunque siga desocupada.",
+      "Ninguna es correcta."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La limpieza y desinfección recurrente en áreas críticas se hace:",
+    "options": [
+      "Diariamente y se repite 2 o más veces al día según las condiciones de cada área.",
+      "Periódicamente cada 2 días.",
+      "Periódicamente cada 7 días.",
+      "Ninguna es correcta."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta que NO es correcta:",
+    "options": [
+      "La limpieza diaria de la sala de reanimación incluirá quitar el polvo de los muebles con un detergente germicida.",
+      "La limpieza diaria de la sala de reanimación incluirá limpiar en seco con una mopa todo el pavimento.",
+      "Una limpieza completa de la sala de reanimación debería realizarse, al menos, mensualmente.",
+      "La limpieza completa de la sala de reanimación incluye el lavado de las paredes y los puntos de luz."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Para depositar los residuos sólidos patógenos y residuos sólidos tóxicos utilizaremos:",
+    "options": [
+      "Bolsa plástica color negro.",
+      "Recipiente color rojo.",
+      "Recipiente plástico color verde.",
+      "Recipiente color naranja."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Cuando un producto tiene un coeficiente de fenol del 2, quiere decir que es aproximadamente:",
+    "options": [
+      "Unas 2 veces más efectivo que el ácido carbónico.",
+      "Unas 20 veces más efectivo que el ácido carbónico.",
+      "Unas 40 veces más efectivo que el ácido carbónico.",
+      "Unas 80 veces más efectivo que el ácido carbónico."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El agente chelating es un producto limpiador que:",
+    "options": [
+      "En un detergente incrementa la efectividad del producto.",
+      "Aporta espuma jabonosa.",
+      "Reduce la espuma jabonosa.",
+      "Al combinarse con materiales solubles los convierte en insolubles."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Utensilios y equipo necesario para el abrillantado de suelos:",
+    "options": [
+      "Máquina fregadora provista de cepillos abrillantadores.",
+      "Discos de lana de acero o discos abrillantadores sintéticos.",
+      "Mopas de fregar de 24 onzas (unos 680 gramos) para las áreas públicas.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Para quitar el polvo con mopas en habitaciones con pacientes y áreas congestionadas se utilizan mopas de impregnación:",
+    "options": [
+      "De 1,20 m.",
+      "De 45-50 cm.",
+      "De 80-85 cm.",
+      "De 1 m."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El objetivo del fregado con mopas esterilizadas es:",
+    "options": [
+      "Dejar en el suelo detergente germicida el tiempo suficiente para que mate las bacterias.",
+      "Conseguir una limpieza más esmerada, más higiénica y de más belleza ambiental.",
+      "Quitar los desperdicios, el polvo y la suciedad del suelo.",
+      "Que el ambiente esté limpio, higiénico y atractivo."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "¿Qué paso NO se realiza en el fregado de mopa y doble cubo?",
+    "options": [
+      "Quitar el polvo.",
+      "Aplicar la disolución del fregado a la mopa.",
+      "Recoger el agua sucia.",
+      "Pasar la máquina abrillantadora."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA. En el lavado de paredes:",
+    "options": [
+      "Una parte importante es la técnica de asepsia en la incomunicación de la habitación.",
+      "En el depósito de la máquina se echa el detergente germicida y medio litro de agua.",
+      "Al preparar la maquinaria se bombea a mano la bomba hasta llegar a la presión recomendada.",
+      "Las marcas y manchas difíciles se deben quitar rascando con la almohadilla abrasiva."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "¿Cuál de las siguientes acciones NO se debe realizar en el mantenimiento diario de habitaciones de descanso?",
+    "options": [
+      "Desinfectar la taza del wáter y los urinarios.",
+      "Fregar las instalaciones con un paño mojado.",
+      "Vaciar los recipientes de desechos.",
+      "Cambiar las cortinas y los cortinajes."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Proceso que destruye la mayor parte de los microorganismos, pero no todas las formas:",
+    "options": [
+      "Esterilización.",
+      "Desgerminación.",
+      "Desinfección.",
+      "Limpieza."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA:",
+    "options": [
+      "Las bacterias se reproducen aproximadamente cada 50 segundos.",
+      "Las bacterias son células vivientes.",
+      "La suciedad es una fuente excelente de alimento para las bacterias.",
+      "La supervivencia de las bacterias está ligada a la disponibilidad de alimento."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA. En la limpieza postoperatoria:",
+    "options": [
+      "Se lavan los cubos con jabón y germicida.",
+      "Las esponjas y la ropa sucia de sangre se placeda en contenedores separados.",
+      "La ropa blanca y verde se guardan en el mismo saco.",
+      "Se deben mover los muebles a una parte de la estancia."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La limpieza general de los quirófanos se realiza:",
+    "options": [
+      "Una vez acabadas todas las operaciones programadas.",
+      "Hacia las cinco de la tarde.",
+      "Entre operación y operación.",
+      "Por la mañana, justo antes de empezar con las operaciones."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la afirmación INCORRECTA:",
+    "options": [
+      "Las ruedas de los muebles del quirófano se deben limpiar siempre muy bien para eliminar todos los residuos.",
+      "Si se olvida un objeto en la sala operatoria las bacterias podrían difundirse rápidamente.",
+      "Siempre se debe aplicar el sellador en los pavimentos conductores de losquirófanos.",
+      "Los pavimentos de los quirófanos son conductore para impedir la formación de electricidad estática."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Para la limpieza y desinfección de los equipos del área de endoscopia se debe utilizar diariamente hipoclorito de sodio en:",
+    "options": [
+      "500 ppm.",
+      "50 ppm.",
+      "200 ppm.",
+      "100 ppm."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Son los desechos procedentes de la elaboración de materiales y suministros propios del hospital:",
+    "options": [
+      "Desechos industriales.",
+      "Desechos contaminantes.",
+      "Desechos orgánicos.",
+      "Desechos orgánicos humanos."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA. Para el correcto mantenimiento de la mopa se debe:",
+    "options": [
+      "Enjuagar la mopa después de cada sesión de trabajo.",
+      "Retorcer la mopa para escurrir.",
+      "Utilizar los colgadores de mopas.",
+      "Utilizar el tamaño de mopa apropiado para cada exprimidor."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Identifica la respuesta CORRECTA sobre el factor pH:",
+    "options": [
+      "El pH del 1 al 6 es ácido y del 8 al 14 es alcalino.",
+      "Un valor de pH 8 es neutro.",
+      "Los ácidos son más fuertes cuando el número es más grande, es decir, del 7 al 14.",
+      "Las respuestas b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "En la limpieza de los zócalos, en la aplicación del disolvente:",
+    "options": [
+      "Se utiliza una brocha de unos 5 cm y se deja reposar durante 5 minutos.",
+      "Se utiliza un rodillo de 10 cm y se deja reposar durante 15 minutos.",
+      "Se utiliza una brocha de unos 15 cm y se deja reposar durante 30 minutos.",
+      "Se utiliza una brocha de unos 5 cm y se deja reposar durante 15 minutos."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la opción CORRECTA. Para la limpieza diaria de los quirófanos debe:",
+    "options": [
+      "Lavarse las manos y las uñas con jabón quirúrgico durante 3 minutos.",
+      "Ponerse un uniformes de quirófano limpio.",
+      "Recoger los residuos y limpiar la zona operatoria con un spray desinfectante.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En la sala de reanimación se debe limpiar el polvo de los muebles y de los aparatos en húmedo con detergente germicida:",
+    "options": [
+      "Todos los días.",
+      "Semanalmente.",
+      "Mensualmente.",
+      "Cada 2 días."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "El objetivo de la renovación de suelos es:",
+    "options": [
+      "Proteger varios tipos de superficies y mantener limpio y atractivo el suelo del hospital.",
+      "Conseguir una limpieza más esmerada, más higiénica y de más belleza ambiental.",
+      "Quitar los desperdicios, el polvo y la suciedad del suelo.",
+      "Quitar toda suciedad del suelo, la cera o acabados sintéticos antes de aplicar el nuevo acabado del suelo."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Algunos residuos pueden causar infecciones o enfermedades en animales y personas, debido a sus características, a su composición o a su utilización. ¿A qué efecto nocivo de los deseas se refiere esta frase?",
+    "options": [
+      "Efectos contaminantes.",
+      "Efectos tóxicos.",
+      "Efectos patógenos.",
+      "Plagas."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la opción CORRECTA. Los productos de higienización:",
+    "options": [
+      "Son productos que reducen el número de gérmenes o bacterias con el fin de garantizar los mínimos mínimos de seguridad recomendados en la salvaguarda de la salud pública.",
+      "Son sustancias que se aplican a una superficie que se suppose que puede ser infecciosa y sirven para matar las细菌e infecciosas de los objetos inanimados.",
+      "Son productos limpiadores que en un detergente incrementan la efectividad del producto.",
+      "Son productos que exterminan las bacterias, se aplican especialmente a los agentes químicos que matan a los gérmenes patógenos."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la opción INCORRECTA. En la limpieza de las ventanas:",
+    "options": [
+      "La parte exterior de las ventanas es posible que necesite una disolución más concentrada.",
+      "En ventanas grandes, remoje y pase el limpiador solamente por la mitad inferior de la misma.",
+      "Empiece siempre pasando el limpiador pegado al marco de la ventana.",
+      "En las ventanas altas utilize pértigas extensibles."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Son utensilios y equipo necesario para el abrillantado de los suelos:",
+    "options": [
+      "La máquina fregadora provista de cepillos abrillantadores.",
+      "Los discos de lana de acero o discos abrillantadores sintéticos.",
+      "El doble cubo, uno para fregar y el otro para enjuagar.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Señala la opción CORRECTA. La desgerminación es:",
+    "options": [
+      "Un procedimiento encaminado a disminuir el número de gérmenes en un área. Tal es el caso del lavado de las manos o el aseo de pisos.",
+      "El proceso que destruye la mayor parte de los microorganismos, pero no todas las formas.",
+      "Proceso mediante el cual se destruyen todos los organismos tanto patógenos como no patógenos incluyendo esporas.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA. Pasos a realizar en la limpieza de una habitación que está ocupada por un paciente:",
+    "options": [
+      "Vaciado de los cubos de desperdicios.",
+      "Fregar la habitación y el cuarto de baño.",
+      "Fregar toda la cama, los colchones, las fundas, todos los muebles, instalaciones, y el alféizar de las ventanas.",
+      "Quitar el polvo de la habitación."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA:",
+    "options": [
+      "La limpieza y desinfección recurrente se hace diariamente y se repite 2 o más veces al día según las condiciones de cada área.",
+      "La limpieza y desinfección terminal se hace cuando entra un paciente infectado o periódicamente cada 8 días.",
+      "En la limpieza y desinfección terminal se pretende cubrir todos los materiales, equipos y toda el área incluyendo la parte alta de las paredes y ventanas.",
+      "En la limpieza y desinfección en áreas críticas es recomendable una estricta limpieza y desinfección."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El departamento de Limpieza y Mantenimiento de un Hospital se responsabiliza de:",
+    "options": [
+      "Mantenimiento del edificio.",
+      "Equipo.",
+      "Dar facilidades en la limpieza del Hospital.",
+      "a) b) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Señala la respuesta INCORRECTA:",
+    "options": [
+      "Si el cuerpo del paciente está limpio los gérmenes tienen más posibilidades de penetrar en el paciente.",
+      "Si el médico tiene el uniforme limpio los gérmenes tienen menos posibilidades de penetrar en el paciente.",
+      "Cuanto más limpio esté el quirófano, menos posibilidades de infección existirán para nuestro paciente.",
+      "Las bacterias presentes en el aire pueden penetrar en el paciente y causar infecciones o enfermedades."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "La limpieza que tiene por objetivo el ofrecer un aspecto limpio, higiénico y atractivo sin molestar al paciente es:",
+    "options": [
+      "La limpieza de las habitaciones aisladas que acaban de ser desocupadas.",
+      "La limpieza de una habitación que está ocupada por un paciente.",
+      "El abrillantado de los suelos.",
+      "El fregado con mopa y doble cubo."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El objetivo de quitar el polvo con mopas es:",
+    "options": [
+      "Limpiar de una forma esmerada toda la habitación y todos los muebles antes que otro paciente la ocupe, de tal manera que ofrezca un aspecto atractivo e higiénico.",
+      "Proteger varios tipos de superficies y mantener limpio, seguro, y atractivo el suelo de todo el hospital.",
+      "Quitar los desperdicios, polvo y suciedad del suelo como tarea diaria de mantenimiento o como preparación para el fregado con mopa y cubo.",
+      "Ofrecer un aspecto limpio, higiénico y atractivo sin molestar al paciente."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los recipientes destinados para depositar agujas usadas y darle su disposición final son:",
+    "options": [
+      "Recipientes de color naranja.",
+      "Recipientes plásticos de color verde.",
+      "Bolsas plásticas de color negro.",
+      "Recipientes rígidos."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El objetivo de la aplicación del acabado de los suelos es:",
+    "options": [
+      "Proteger varios tipos de superficies y mantener limpio, seguro y atractivo el suelo de todo el hospital.",
+      "Ofrecer una habitación limpia, higiénica y atractiva usando las más modernas técnicas de asepsia.",
+      "Limpiar de una forma esmerada toda la habitación y todos los muebles antes que otro paciente la ocupe, de tal manera que ofrezca un aspecto atractivo e higiénico.",
+      "Conseguir una limpieza más esmerada, más higiénica y de más belleza ambiental."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Tiene por objetivo el mantener el suelo limpio, seguro y atractivo:",
+    "options": [
+      "El abrillantado de los suelos.",
+      "Fregar con mopas esterilizadas.",
+      "El mantenimiento diario de habitaciones de descanso.",
+      "La desinfección de las habitaciones ocupadas aisladas."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "En un hospital general, el cambio de ropa de las camas y de los pacientes es más frecuente, pudiéndose admitir el cambio diario de la misma hasta un total de:",
+    "options": [
+      "6 kg. /lecho/día.",
+      "4 kg. /lecho/día.",
+      "2 kg. /lecho/día.",
+      "1 kg. /lecho/día."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La máquina de lavar más utilizada en la lavandería de los hospitales modernos es:",
+    "options": [
+      "Una lavadora convencional, con control manual y automático.",
+      "Una lavadora-extractora, que combina el proceso de lavado con la centrifugación o acondicionamiento.",
+      "Una lavadora de desinfección, que queda encajada entre paredes o barrera contra la contaminación.",
+      "Una lavadora continua, también llamada túnel de lavado."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El equipamiento que se destina a secar y a planchar la ropa al mismo tiempo se denomina:",
+    "options": [
+      "Cabina.",
+      "Extractor.",
+      "Calandra.",
+      "Prensa."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Señala la CORRECTA:",
+    "options": [
+      "La centrífuga o extractora elimina hasta 60% de agua de la ropa salida de la lavadora.",
+      "Las lavadoras extractoras requieren más espacio.",
+      "La capacidad de la lavadora continua varía de 300 a 1000 kg. de ropa seca procesada por hora.",
+      "La prensa está constituida por doscilindros, uno fijo externo y uno giratorio interno."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El equipamiento destinado a pasar ropa de personal, donde se esteriliza la ropa es la:",
+    "options": [
+      "Centrífuga o extractora.",
+      "Calandra.",
+      "Plancha de vapor.",
+      "Prensa."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Los tejidos para la confección de la ropa más utilizados en el hospital son:",
+    "options": [
+      "Algodón y poliéster/algodón.",
+      "Algodón y viscosa.",
+      "Algodón y lino.",
+      "Algodón y poliamida."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "La calidad del agua utilizada en lavandería:",
+    "options": [
+      "Es muy importante y debe cumplir, por lo menos, tres requisitos.",
+      "Es importante, debe de ser blanda.",
+      "Es indiferente, lo que importa son los productos.",
+      "No tiene importancia, depende de la máquina."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "El vapor consumido en la lavandería para el calentamiento del agua, secadoras, calandras y prensas debe ser de:",
+    "options": [
+      "No se necesita vapor.",
+      "Vapor de baja presión.",
+      "Vapor de alta presión.",
+      "Vapor de media presión."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "En el procesamiento de la ropa hospitalaria, la que se debe introducir en los sacos de plástico autosolubles es la:",
+    "options": [
+      "Ropa reciclable.",
+      "Ropa sucia.",
+      "Ropa contaminada.",
+      "Ropa esterilizada."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Los Sacos Autodisolubles:",
+    "options": [
+      "Desinfectan el agua de limpieza y las aguas residuales.",
+      "Están fabricados en film opaco.",
+      "Son permeables a cualquier tipo de transpiración de gas, etc.",
+      "Son tóxicos para el organismo humano."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Un buen lavado empieza con la separación de la ropa sucia, que se clasificará según:",
+    "options": [
+      "El grado de suciedad, tamaño y tipo de tejido.",
+      "El grado de suciedad, tamaño y color.",
+      "El grado de suciedad, nivel de deterioro y color.",
+      "El grado de suciedad, tipo de tejido y color."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Durante la separación, la ropa es agrupada en lotes o fardos correspondientes a una fracción de la capacidad de la máquina:",
+    "options": [
+      "En general, 50% de sus capacidades de limpieza.",
+      "Entre el 40% y 80% de sus capacidades de limpieza.",
+      "Por encima del 50% de sus capacidades de limpieza.",
+      "En general, 80% de sus capacidades de limpieza."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El ciclo para el lavado de ropa con suciedad más acusadas comienza con:",
+    "options": [
+      "El remojado previo.",
+      "El prelavado.",
+      "La humectación.",
+      "La vaporización."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "En el procesamiento de la ropa hospitalaria, terminadas las operaciones de recepción, separación, pesaje y limpieza:",
+    "options": [
+      "Toda el área debe ser ordenada.",
+      "Toda el área debe ser desinfectada y lavada.",
+      "Se hace control de stock.",
+      "Se realiza el cambio de turno."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Los principios asociados en el proceso del lavado son de orden:",
+    "options": [
+      "Físico.",
+      "Químico.",
+      "Físico y químico.",
+      "Electromecánico."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Si el nivel del agua estuviera demasiado alto, durante los enjabonamientos, blanqueado y acidulación, puede ocurrir:",
+    "options": [
+      "Menor costo.",
+      "Menor necesidad de productos de lavado.",
+      "Permanencia de los residuos de productos.",
+      "Menor acción mecánica."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En general, ¿Qué cantidad del agua utilizada en el lavado es agua tibia o caliente?",
+    "options": [
+      "Del 5 al 15%.",
+      "Del 15 al 25%.",
+      "Del 25 al 35%.",
+      "Del 35 al 45%."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El tiempo es uno de los factores importantes del lavado. Señala la CORRECTA.",
+    "options": [
+      "Si el enjabonado es muy rápido será insuficiente para la actuación de los productos.",
+      "El enjuague es, en general, la operación más lenta del proceso.",
+      "El tiempo prolongado es más importante que la cantidad de enjabonado.",
+      "El tiempo utilizado para el lavado necesita de una media de 15 minutos."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Cuando el jabón es colocado en demasiada cantidad, produce exceso de espuma:",
+    "options": [
+      "Facilitando el proceso de limpieza.",
+      "Dificulta el enjuague.",
+      "Aumentando la concentración de la solución.",
+      "Mejora la acción mecánica."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El blanqueador debe ser adicionado en la última enjabonada o en el primer enjuagado, para:",
+    "options": [
+      "Neutralizar los residuos alcalinos de la ropa.",
+      "Evitar que los efectos del cloro sean disminuidos por la presencia de materias orgánicas.",
+      "Economizar agua, tiempo y energía.",
+      "Evitar amarillear la ropa en el secado y el calandrado."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La acidulación consiste en:",
+    "options": [
+      "Adicionar un producto ácido durante el blanqueado para bajar el pH y neutralizar los residuos alcalinos de la ropa.",
+      "Adicionar un producto ácido en el último aclarado para bajar el pH y neutralizar los residuos alcalinos de la ropa.",
+      "Adicionar un producto ácido en el último aclarado para subir el pH.",
+      "Adicionar en el último enjuague de determinados tejidos, un producto que contiene glicerina en su composición."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Para conseguir una desinfección completa en el lavado de la ropa debe usarse:",
+    "options": [
+      "La temperatura de 65 a 75°C durante 15 minutos.",
+      "La temperatura de 75 a 85 °C, durante 10 minutos.",
+      "La temperatura de 85 a 95 °C, durante 15 minutos.",
+      "La temperatura de 100 °C, durante 10 minutos."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La eliminación de las bacterias patógenas presentes en la ropa se consigue mediante la:",
+    "options": [
+      "Acidulación.",
+      "Clorodesinfección.",
+      "Vaporización.",
+      "Glicerinación."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Señala la opción CORRECTA. En la eliminación de manchas.",
+    "options": [
+      "Herrumbre (amarillo-rojizo): a través de un prelavado en agua fría con sal.",
+      "Café: son quitadas con acidulantes.",
+      "Aceite o grasa: son disueltas por almidón, talco o arcilla blanca en polvo.",
+      "Tinta de escribir se quita con hielo."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Quitaremos las manchas de sangre:",
+    "options": [
+      "A través de un prelavado con agua caliente.",
+      "A través de un prelavado con agua fría.",
+      "Aplicando alcohol.",
+      "Con limón y sal en agua caliente."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Dentro del proceso de la ropa en el área limpia, la ropa seleccionada es distribuida para el secado en la siguiente proporción:",
+    "options": [
+      "35% para el calandrado, 35% para la secadora y 30% para el prensado o planchado.",
+      "45% para el calandrado, 35% para la secadora y 20% para el prensado o planchado.",
+      "55% para el calandrado, 35% para la secadora y 10% para el prensado o planchado.",
+      "70% para el calandrado, 25% para la secadora y 5% para el prensado o planchado."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El calandrado es una operación que seca y pisa al mismo tiempo:",
+    "options": [
+      "Los uniformes.",
+      "Las piezas pesadas.",
+      "Las piezas pequeñas.",
+      "Las piezas de la ropa lisa."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Señala la CORRECTA:",
+    "options": [
+      "En la centrifugación, por la eliminación del agua, se reduce un 80% del peso de la ropa.",
+      "En la centrifugadora la ropa se placeda en grandes pilas dentro de sacos de lona.",
+      "Ropas como colchas pesadas, piezas pequeñas y otras, son secadas en la secadora.",
+      "Las sábanas u colchas ligeras son pasadas por la prensa."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "¿Cuál de los siguientes es un elemento del área física, complementa el área limpia y canaliza el movimiento de toda la ropa del hospital?",
+    "options": [
+      "El ropero.",
+      "El vestidor.",
+      "La lavandería.",
+      "El vestuario."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "La barrera de contaminación:",
+    "options": [
+      "Separa la lavandería en 3 áreas: lavado, secado y ropero.",
+      "Separa el área sucia y el área limpia.",
+      "Es eficiente si existe una lavadora de desinfección.",
+      "No puede tener visores."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Señala la INCORRECTA. Si el agua del lavado contiene sales de calcio (cal) se produce:",
+    "options": [
+      "Desperdicios de detergente.",
+      "La destrucción prematura de la ropa.",
+      "La disminución de las capacidades de absorción del tejido.",
+      "El ablandamiento y suavizado de la ropa."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "La caja de suspensión o de grosor con tela sirve para:",
+    "options": [
+      "Retener los hilos de la ropa.",
+      "Filtrar la cal del agua.",
+      "Suministrar productos disinfectantes.",
+      "Medir la temperatura."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la afirmación CORRECTA respecto de la recogida de la ropa sucia:",
+    "options": [
+      "Debe permanecer el mayor tiempo posible en la unidad.",
+      "El empleado debe usar guantes de caucho, máscara y gorro.",
+      "La ropa sucia se deposita directamente en el carro.",
+      "Utilizaremos el carro de la ropa limpia cuando se vacíe."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "En cada unidad de enfermería ¿Cuántas mudas se reciben para cada cama por día?",
+    "options": [
+      "Una y media por cama y día.",
+      "De una y media a dos mudas.",
+      "Dos mudas.",
+      "De dos a tres mudas."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "En la unidad de enfermería, la ropa de reserva:",
+    "options": [
+      "Debe constar en una lista de ropa.",
+      "Debe estar protegida con bolsa de tela.",
+      "Estará bien planchada y colgada en la percha.",
+      "No se repone hasta la mañana siguiente."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Las mesas de planchado están recubiertas de:",
+    "options": [
+      "Una espuma siliconizada.",
+      "Una funda de nylon.",
+      "Una garnitura flexible y de una funda muletón.",
+      "Una tela de algodón."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "El planchado:",
+    "options": [
+      "Es un conjunto de operaciones diversas que tienen por objeto poner los artículos ya usados en un estado lo más próximo posible al que tenían de nuevos.",
+      "Es una operación que tiende a devolver a las ropas su aspecto, su textura y su calidad inicial.",
+      "Requiere destreza y entrenamiento práctico experto y la cuidadosa práctica de técnicas correctas.",
+      "Todas son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En el planchado, la recomendación en general es que el tiempo de vacío:",
+    "options": [
+      "Debe durar entre cinco y 15 segundos, y que la prenda debe sentirse siempre fría al tacto, antes de pasar a la siguiente operación.",
+      "NO debe ser menor de cinco segundos, y que la prenda debe sentirse siempre caliente al tacto, antes de pasar a la siguiente operación.",
+      "NO debe ser menor de cinco segundos, y que la prenda debe sentirse siempre fría al tacto, antes de pasar a la siguiente operación.",
+      "Debe durar entre cinco y 15 segundos, y que la prenda debe sentirse siempre caliente al tacto, antes de pasar a la siguiente operación."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "De las siguientes fibras textiles, la que mejor soporta el calor es:",
+    "options": [
+      "Lino.",
+      "lana.",
+      "Acrílico.",
+      "Poliamidas."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la CORRECTA:",
+    "options": [
+      "Tanto el túnel de acabado como la cabina de acabado trabajan continuamente.",
+      "Tanto la cabina de acabado como el túnel de acabado trabajan discontinuamente.",
+      "Mientras el túnel de acabado trabaja discontinuamente, la cabina de acabado lo hace continuamente.",
+      "Mientras la cabina de acabado trabaja discontinuamente, el túnel de acabado lo hace continuamente."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "La funda de tela que se hincha, para el planchado del cuerpo del pantalón, se denomina:",
+    "options": [
+      "Bacín.",
+      "Pan-topper.",
+      "Prensa.",
+      "Cojinete."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "En el taller de planchado es importante:",
+    "options": [
+      "Tener todos los aparato muy juntos.",
+      "Buena calefacción.",
+      "Un humidificador.",
+      "Buena aireación."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El factor más importante para obtener un buen planchado es:",
+    "options": [
+      "La humedad.",
+      "La presión.",
+      "El calor.",
+      "El descenso brusco de la temperatura del tejido después del calentamiento."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "La excesiva vaporización en el proceso del planchado puede producir:",
+    "options": [
+      "Fatiga al operador.",
+      "Disolución del tejido.",
+      "Holgura en tejidos de algodón.",
+      "Endurecimiento del tejido."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "En el planchado:",
+    "options": [
+      "La operación de vacío es menos importante que la vaporización.",
+      "El vacío es el que da consistencia a la pieza.",
+      "En la operación de vacío será suficiente un ligero toque de pedal.",
+      "La recomendación en general es que el tiempo de vacío NO debe ser menor de quince segundos."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "El poliéster soporta una temperatura hasta:",
+    "options": [
+      "110°C.",
+      "150°C.",
+      "200°C.",
+      "245°C."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La prensa universal de planchado:",
+    "options": [
+      "Lleva accesorios diversos como el soporte para la plancha.",
+      "Tiene un ciclo de 4 tiempos.",
+      "Se compos de dos platos recubiertos.",
+      "Puede ser con bancada de forma rectangular o contorneada."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Cualidades que debe tener el revestimiento de tela de la prensa universal de planchado:",
+    "options": [
+      "Ser lisa, para NO dejar marcas en los tejidos finos.",
+      "Ser impermeable al vapor.",
+      "Ser de seda natural.",
+      "Ser suficientemente rígida."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "El sistema de aspiración de la prensa universal se encuentra:",
+    "options": [
+      "En el plato inferior.",
+      "En el plato superior.",
+      "En ambos platos.",
+      "La prensa universal no tiene este sistema."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "¿Cuál NO es un tipo de mesa de planchado?",
+    "options": [
+      "Mesa calentadora.",
+      "Mesa aspirante.",
+      "Mesa vaporizante.",
+      "Mesa irradiante."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "El recubrimiento de la mesa de planchar:",
+    "options": [
+      "Debe ser impermeable.",
+      "Debe ser duro y compacto.",
+      "Necesita elasticidad.",
+      "Consiste en una funda de espuma siliconizada."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Las cabinas y túneles de acabado del proceso de planchado:",
+    "options": [
+      "Permiten tratar simultáneamente más de 25 prendas.",
+      "Eliminan completamente las arrugas de uso de las entrepiernas de pantalones.",
+      "Ambos trabajan continuamente.",
+      "Interesan especialmente para artículos de punto sintéticos o naturales."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En el planchado, el equipo base de servicio de acabado comprende:",
+    "options": [
+      "La prensa universal y el túnel de acabado.",
+      "La prensa universal y la mesa de planchado.",
+      "La prensa universal y la cabina.",
+      "La prensa universal y el pan-topper."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Es un aparato con forma de armario equipado con un sistema de vaporización y otro de circulación de aire caliente:",
+    "options": [
+      "Cabina de acabado.",
+      "Mesa de planchar.",
+      "Vaporizador.",
+      "Prensa universal."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "Señala la opción INCORRECTA sobre la operación de vacío en el planchado.",
+    "options": [
+      "Esta operación es más importante que la vaporización.",
+      "Tras vaporizar, antes de pasar a la siguiente operación, la prenda debe sentirse siempre caliente al tacto.",
+      "El tiempo de vacío NO debe ser menor de 5 segundos.",
+      "Es preferible sobrevaporizar que vaporizar de menos."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "¿Dónde se suele ejecutar el planchado de la chaqueta?",
+    "options": [
+      "Prensa universal.",
+      "Cabina de acabado.",
+      "Maniquí.",
+      "Todas son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "Con la ropa que pasa por el túnel de acabado es posible:",
+    "options": [
+      "Borrar más o menos todos los pliegues.",
+      "Rehacer los pliegues de confección.",
+      "Ahuecar el tejido mejorando el aspecto y la caída de la prenda.",
+      "a) y c) son correctas."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "En prendas ligeras (blusas):",
+    "options": [
+      "El vaporizado debe durar 1-2 segundos y el vacío 5 segundos.",
+      "El vaporizado debe durar 8 segundos y el vacío 16-17 segundos.",
+      "El vaporizado debe durar 5-6 segundos y el vacío 10-12 segundos.",
+      "El vaporizado debe durar 4 segundos y el vacío 8-9 segundos."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes prendas NO se deben planchar?",
+    "options": [
+      "Prendas de clorofibra.",
+      "Prendas de lino.",
+      "Prendas de seda.",
+      "Prendas de poliéster."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "En el planchado, la temperatura de seguridad de la lana es de:",
+    "options": [
+      "230 °C.",
+      "150 °C.",
+      "180 °C.",
+      "215 °C."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "¿Cuál es una causa principal del pegado de componentes accionados por aire?",
+    "options": [
+      "Presión de vapor demasiado alta.",
+      "Mala calidad del aire del compresor: aire caliente, húmedo o con lubricación incorrecta.",
+      "Exceso de vacío en la prensa.",
+      "Temperatura baja del plato de planchado."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text"> "¿Cuál es una medida CORRECTA para evitar deformaciones y alargamientos en las prendas?",
+    "options": [
+      "Usar siempre el mismo ciclo de temperatura y duración.",
+      "Evitar clasificar las prendas por tipo.",
+      "Clasificar los artículos por categoría y adaptar el ciclo a cada uno.",
+      "Usar cualquier tipo de percha disponible."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Al planchar un pantalón en prensa universal, ¿por qué es importante controlar el paso del calor al frío?",
+    "options": [
+      "Porque evita que el tejido se humedezca demasiado.",
+      "Porque fija el tejido en la forma deseada, manteniendo los pliegues correctamente.",
+      "Porque acelera el secado de la prenda sin afectar la forma.",
+      "Porque reduce la presión necesaria sobre la prenda."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "¿Cuáles son las dos fases del funcionamiento de los túneles de acabado?",
+    "options": [
+      "Lavado y centrifugado.",
+      "Vaporización y secado.",
+      "Enfriamiento y doblado.",
+      "Compresión y sellado."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "En el planchado, la temperatura de seguridad de la acrílica es de:",
+    "options": [
+      "75-100 °C.",
+      "150-2175 °C.",
+      "180-200 °C.",
+      "200-215 °C."
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "text": "¿Cuáles son las dos grandes fases del planchado del pantalón?",
+    "options": [
+      "Lavado y secado.",
+      "Vaporización y doblado.",
+      "Planchado del bacín hasta la cintura y planchado de las piernas.",
+      "Marcado de bolsillos y costuras laterales."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "text": "Se usa para enfriar y secar totalmente el artículo, de modo que los pliegues queden bien marcados.",
+    "options": [
+      "El lavado.",
+      "El vacío.",
+      "La presión.",
+      "El vapor."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "La prensa de doble pierna",
+    "options": [
+      "Es una prensa corta en la cual se efectúa el planchado del bacín en 5 o 6 operaciones.",
+      "Es una prensa cuya plancha inferior más plana que la de una prensa universal.",
+      "Tiene una escotadura en el extremo o en una esquina.",
+      "Permite el prensado de las dos piernas al mismo tiempo."
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "text": "¿En qué tipo de artículos son más frecuentes los alargamientos?",
+    "options": [
+      "En prendas de algodón ligero.",
+      "En artículos de seda natural.",
+      "En artículos de fibras acrílicas y, a veces, de lana.",
+      "En prendas de lino corto."
+    ],
+    "correctAnswerIndex": 2
   }
 ]
